@@ -6,4 +6,4 @@ Note that discussion of specifications already adopted by the HTTPAPI Working Gr
 
 **All discussion in this repo is under the [IETF NOTE WELL](https://www.ietf.org/about/note-well/) policy.**
 
-[Go to the discussion](https://github.com/ietf-wg-httpapi/discussion/discussions).
+### [Go to the discussion](https://github.com/ietf-wg-httpapi/discussion/discussions).
